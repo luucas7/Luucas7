@@ -6,7 +6,7 @@
 
 ### 🔧 Languages and tools 
 
-[![languages](https://skillicons.dev/icons?i=python,react,java,php,bash,ts,js,html,css,sass)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=python,react,java,php,bash,c,ts,js,html,css,sass)](https://skillicons.dev)
 
 [![tools](https://skillicons.dev/icons?i=vscode,mysql,github,vite,nodejs,mongo,mui,figma,eclipse,express,maven,debian,androidstudio,bootstrap,docker,nginx,postman)](https://skillicons.dev)
 
