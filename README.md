@@ -17,7 +17,7 @@
 
 ### 🔭 I would like to learn...
 
-[![tools](https://skillicons.dev/icons?i=azure,unity,flask,firebase,githubactions,redis,tailwind,dotnet,go)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=azure,unity,flask,next,firebase,githubactions,aws,elasticsearch,redis,tailwind,dotnet,go)](https://skillicons.dev)
 
 <!--
 **Luucas7/Luucas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
