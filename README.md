@@ -1,5 +1,5 @@
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luucas7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luucas7&layout=compact&theme=dark)
 
 ### 🔧 Languages and tools 
 
