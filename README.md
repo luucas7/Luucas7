@@ -9,12 +9,12 @@
 
 ### 🌱 I’m currently learning...
 
-[![languages](https://skillicons.dev/icons?i=githubactions,ts)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=githubactions,ts,docker)](https://skillicons.dev)
 
 
 ### 🔭 I would like to learn...
 
-[![tools](https://skillicons.dev/icons?i=azure,flutter,unity,flask,next,firebase,rust,aws,elasticsearch,redis,tailwind,dotnet,go)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=azure,flutter,unity,flask,next,firebase,aws,elasticsearch,redis,tailwind,dotnet,go,rust)](https://skillicons.dev)
 
 <!--
 **Luucas7/Luucas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
