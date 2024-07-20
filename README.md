@@ -9,7 +9,7 @@
 
 ### 🌱 I’m currently learning...
 
-[![languages](https://skillicons.dev/icons?i=githubactions,ts,docker,nginx)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=githubactions,ts,docker,nginx,next,tailwind)](https://skillicons.dev)
 
 
 ### 🔭 I would like to learn...
