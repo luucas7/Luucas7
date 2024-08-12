@@ -9,9 +9,9 @@
 
 ### 🌱 I’m currently learning...
 
-[![languages](https://skillicons.dev/icons?i=next,tailwind,githubactions,ts,docker,nginx)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=next,flask,tailwind,githubactions,ts,docker,nginx)](https://skillicons.dev)
 
 
 ### 🔭 I would like to learn...
 
-[![tools](https://skillicons.dev/icons?i=azure,flutter,unity,flask,next,firebase,aws,elasticsearch,redis,tailwind,dotnet,go,rust)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=azure,flutter,unity,firebase,aws,elasticsearch,redis,dotnet,go,rust)](https://skillicons.dev)
