@@ -1,4 +1,4 @@
-![stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=luucas7&layout=compact&theme=dark](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiimWTnWARkex3QAGMFQbDXZuqfhgUllYoQ&s))
+![stats](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiimWTnWARkex3QAGMFQbDXZuqfhgUllYoQ&s)
 
 ### 🔧 Languages
 [![languages](https://skillicons.dev/icons?i=python,react,java,php,bash,c,cs,ts,js,html,css,sass)](https://skillicons.dev)
